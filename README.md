@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me cconner9582002@gmail.com
-- 😄 Pronouns: none I am a Male
+
 
 
 <!---
